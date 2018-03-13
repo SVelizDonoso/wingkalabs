@@ -10,29 +10,29 @@ Además se agregaron 3 de los CMS más populares en internet,  para que el estud
 Cabe destacar que WingkaLabs tiene más de 27 Laboratorios de educación a Pentester, dentro de cada uno de ellos existen muchas vulnerabilidades por descubrir y explotar, que en total suman más de 400 vulnerabilidades para aprender. 
 Sin duda espero que WingkaLabs nunca falte en las academias de CiberSeguridad, en las Universidades, en las exposiciones de consultores, en los artículos de Blogs especializados y en todo aquel que quiera aprender más.
 
-#Formato
+# Formato
 
 La máquina Virtual WingkaLabs está en formato OVF por lo que puede ser utilizada en Virtual box o en VMWare con el fin de que su acceso sea universal.
 
-#Licencia
+# Licencia
 
 WingkaLabs está bajo Licencia GNU General Public License v3.0
 
-#Descarga
+# Descarga
 
 Link descarga: 
 Pido Disculpas por no tener otro medio para compartir esta máquina virtual, pero Google Drive es para lo que me alcanza, ya que estoy solo en este proyecto.
 https://drive.google.com/file/d/1cGmaQfFqlcLaBFRyluv_73xEgPGlFiZ3/view?usp=sharing
 
 
-#Acceso
+# Acceso
 
 No olvides dejar esta máquina en modo NAT ya que es extremadamente Vulnerable y su publicación a la red, podría comprometer la seguridad de la red donde se encuentre ubicada esta máquina.
 Usuario: wingkalabs
 Clave:wingkalabs
 
 
-#Detalles
+# Detalles
 
 Pantalla principal
 Construí un cuadro de mando para ayudar a los instructores a ver cómo se comporta la Maquina entregando datos como por ejemplo:
@@ -49,7 +49,7 @@ Y para finalizar construí una galería con todos laboratorios en una sola panta
 <img src="https://image.ibb.co/fHnz2x/TODOENUNO.png" />
 
 
-#Contacto
+# Contacto
 
 Espero que con WingkaLabs tengan un lugar donde puedan probar y mejorar sus habilidades en hacking ético, donde destruir la maquina está permitido (no olviden hacer un snapshots al inicio de la instalación).
 
