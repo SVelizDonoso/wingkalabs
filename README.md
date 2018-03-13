@@ -46,7 +46,7 @@ También encontré útil mostrar cuales son los servicios disponibles y cuáles 
 
 Y para finalizar construí una galería con todos laboratorios en una sola pantalla, intente que fuera sencilla, fácil de entender y obviamente en idioma Castellano.
 
-<img src="https://image.ibb.co/fHnz2x/TODOENUNO.png" />
+<img src="https://image.ibb.co/nrNz2x/galeria.png" />
 
 
 # Contacto
