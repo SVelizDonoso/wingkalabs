@@ -53,5 +53,14 @@ Me despido atentamente a sus comentarios.<br>
 Contacto:cyslabs@gmail.com<br>
 Developer:Sebastián Veliz Donoso<br>
 
+# Foto de Laboratorios 
+<img src="https://image.ibb.co/m0tyVH/lab1.png" />
+<img src="https://image.ibb.co/cxfOxx/lab2.png" />
+<img src="https://image.ibb.co/dhGVcx/lab3.png" />
+<img src="https://image.ibb.co/g7WJVH/lab4.png" />
+<br>
+<br>
+<br>
+
 
 
